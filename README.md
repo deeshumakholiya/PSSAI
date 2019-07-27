@@ -1,3 +1,3 @@
 # Job shop scheduling #
 
-Run via terminal from the directory `jobshop` calling `python main.py`.
+Run via terminal from the directory `jobshop_assignment` calling `python main.py`.
